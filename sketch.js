@@ -1,3 +1,5 @@
+//PEDI PARA O CHAT GPT MELHORAR O JOGO 
+
 function setup() {
   createCanvas(400, 400);
 }
